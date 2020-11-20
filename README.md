@@ -7,12 +7,12 @@ question2:
 
 Lorsqu'un changement de configuration de peripherique (tel qu'une rotation) se produit :
 
-	.Android ferme immédiatement l' activité en appelant onStop().Le code doit redemarrer 
+.Android ferme immédiatement l' activité en appelant onStop().Le code doit redemarrer 
 
 question3:
 
 Lorsque dans le cycle de vie de l'activité, onSaveInstanceState() est appelé:
-	.onSaveInstanceState() est appelée avant la méthode onStop()   
+.onSaveInstanceState() est appelée avant la méthode onStop()   
 	
 	   
 question4:
